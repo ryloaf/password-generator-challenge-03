@@ -1,3 +1,5 @@
+// I worked with my classmates Amanda and Mallory to get started on this code aside from what we were initially provided (particularly lines 105-118)
+
 // Array of uppercase letters
 var uppercaseCharacters = [
   "A",
@@ -97,7 +99,7 @@ function getRandom(array) {
   return randomElement;
 }
 
-// Write password to the #password input
+
 function generatePassword() {
 
   let passwordLength = prompt("Pick a password length between 8 and 128");
@@ -151,7 +153,7 @@ console.log("result: ", result)
 return result.join("");
 }
 
-// Get references to the #generate element
+
 var generateBtn = document.querySelector("#generate");
 
 function writePassword() {
