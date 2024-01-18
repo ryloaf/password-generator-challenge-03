@@ -6,4 +6,10 @@ This week's challenge tested my Javascript knowledge. A starter code was provide
 
 ## Screenshot
 
+![ryloaf github io_password-generator-challenge-03_](https://github.com/ryloaf/password-generator-challenge-03/assets/151485696/c31c9065-3230-421e-b8c8-19f8bcc9ae92)
+
 ## Link to Application
+
+[Random Password Generator](https://ryloaf.github.io/password-generator-challenge-03/)
+
+&copy; 2023 Rylee Jolley GitHub @ryloaf
